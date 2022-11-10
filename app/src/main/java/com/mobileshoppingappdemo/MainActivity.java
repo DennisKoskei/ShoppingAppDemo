@@ -211,7 +211,7 @@ public class MainActivity extends AppCompatActivity {
         clearButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                breadSelectedTimes = pastaSelectedTimes = eggsSelectedTimes = milkSelectedTimes = noOfItemsSelected =  0;
+                breadSelectedTimes = pastaSelectedTimes = eggsSelectedTimes = milkSelectedTimes = noOfItemsSelected = discountedPrice = totalPrice = 0;
                 breadPrice = pastaPrice = eggsPrice = milkPrice = 0;
 
                 breadSelectedTextView.setText("x" + breadSelectedTimes);
