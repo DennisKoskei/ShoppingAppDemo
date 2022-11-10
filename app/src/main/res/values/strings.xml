@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShoppingAppDemo</string>
+    <string name="hyperlink" />
+    <string name="hyperlink2">You can clone this app and try it out from\n<a href="https://github.com/DennisKoskei/ShoppingAppDemo.git">ShoppingAppDemo on Github.com</a></string>
 </resources>
